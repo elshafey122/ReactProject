@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:"poppins" sans-serif;
+    background-image:linear-gradient(to right bottom ,#141414,#141414);
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
